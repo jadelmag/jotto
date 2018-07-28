@@ -1,6 +1,6 @@
 ## Jotto
 
-Jotto is an small project using TDD, Unit Testing using Jest and Enzyme.
+[Jotto](http://jotto.surge.sh/) is an small project using TDD, Unit Testing using Jest and Enzyme.
 This application test components, actions, reducers, props, state, etc..
 
 ### Instalation
@@ -13,7 +13,7 @@ If npm test throws errors:
 - Install modules using: `npm install` y `yarn install`.
 - Run tests with: `yarn test --watchAll`
 
---watch is not supported without git/hg, please use --watchAll
+`--watch is not supported without git/hg, please use --watchAll`
 
 ### Requirements
 
@@ -33,4 +33,5 @@ If npm test throws errors:
 
 ### DOCUMENTATION
 Jest: https://jestjs.io/docs/en/getting-started
+
 Enzyme: http://airbnb.io/enzyme/docs/api/ShallowWrapper/shallow.html
