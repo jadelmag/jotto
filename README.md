@@ -13,6 +13,8 @@ If npm test throws errors:
 - Install modules using: `npm install` y `yarn install`.
 - Run tests with: `yarn test --watchAll`
 
+--watch is not supported without git/hg, please use --watchAll
+
 ### Requirements
 
 - create-react-app 1.5.2
